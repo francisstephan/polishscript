@@ -1,0 +1,4 @@
+./develop: elm make mode développement (voir avec index.html)
+./optimize : elm make mode exécutable (voir avec pub/index.html)
+./clean : supprime elm-stuff, out/elm.js et pub/app.js
+./changejs :  remplace app.js après modification d'un fichier js hors elm.js

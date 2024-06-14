@@ -1,0 +1,2 @@
+#!/bin/zsh
+elm make src/Polski.elm  --output out/elm.js
