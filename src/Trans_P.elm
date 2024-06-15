@@ -18,7 +18,7 @@ latPol_= Dict.fromList [ ("a" , "ą")
                         , ("o" , "ó")
                         , ("s" , "ś") 
                         , ("z" , "ź")
-                        , ("r" , "ż") 
+                        , ("g" , "ż") 
                         , ("A" , "Ą")
                         , ("C" , "Ć")
                         , ("E" , "Ę")
@@ -27,7 +27,7 @@ latPol_= Dict.fromList [ ("a" , "ą")
                         , ("O" , "Ó")
                         , ("S" , "Ś")
                         , ("Z" , "Ź")
-                        , ("R" , "Ż ")
+                        , ("G" , "Ż ")
                         ]
 
 subst : String -> (Dict.Dict String String) -> String
